@@ -6,7 +6,7 @@
 
 因為工作開發使用`C語言`有時再加上`HTML`和`Javascript`，早期使用的是`Slickedit`，它真的超適合開發又大又深的 Project，但它沒有 Window Split，這個後來選擇開發工具占了很大的項目。再來就使用`Sublime`開發 C一陣子，其實當你對一個程式的認知達到一定程度，用編輯器反而比較快。
 
-現在又使用另一套 IDE為`JetBrans`開發的`CLion`，它基本上很類似`Slickedit`，但它有很好的 Window Split 又加上現在流行的 Version Control和 Task概念，是目前用過最好用的 IDE。
+現在又使用另一套 IDE為`JetBrains`開發的`CLion`，它基本上很類似`Slickedit`，但它有很好的 Window Split 又加上現在流行的 Version Control和 Task概念，是目前用過最好用的 IDE。
 
 但在好奇心的驅使下研究起有`編輯器之神的Vim`，為何不選`神的編輯器Emacs`，我發現`Emacs`不太適合在我使用的`MAC OS`上，它的快捷鍵讓我按起來像康安一樣...所以玩一陣子就先放一邊。
 
